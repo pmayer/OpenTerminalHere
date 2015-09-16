@@ -6,4 +6,4 @@ You can download the app at: <https://github.com/pmayer/OpenTerminalHere/release
 ## Install
 
 * Download and unzip the App.
-* Hold down the Command key and drag the App in the Finder toolbar.
+* Hold down the Command key and drag the App up to the Finder toolbar.
